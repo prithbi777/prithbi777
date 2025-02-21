@@ -42,8 +42,8 @@
 ---
 
 ## 💡 Featured Projects
-- 🚀 **[Project 1 Name](https://github.com/prithbi777/PasteAPPY)** - Short description.
-- 🌎 **[Project 2 Name](https://github.com/prithbi777/Music_Player_Using_Python)** - Short description.
+- 🚀 **[PasteAPPY](https://github.com/prithbi777/PasteAPPY)** - To Do Listing, Notes and Multipurpose!
+- 🌎 **[Music Player](https://github.com/prithbi777/Music_Player_Using_Python)** - An Interesting Music Player Using Python!
 - 🔥 **More projects on [GitHub](https://github.com/prithbi777?tab=repositories)!**  
 
 ---
