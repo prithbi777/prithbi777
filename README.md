@@ -58,4 +58,4 @@
 
 ---
 
-⭐ **Fun Fact:** `"Talk is cheap. Show me the code." – Linus Torvalds`  
+⭐ **Fun Fact:** `"Simplicity is the soul of efficiency." – Austin Freeman`  
