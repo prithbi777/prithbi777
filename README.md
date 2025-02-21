@@ -58,4 +58,4 @@
 
 ---
 
-⭐ **Fun Fact:** `"Simplicity is the soul of efficiency." – Austin Freeman`  
+⭐ **Tech Fact:** `"Simplicity is the soul of efficiency." – Austin Freeman`  
