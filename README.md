@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Prithbi! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=00C3FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;%23ReactJs%20%20%23Tailwind_CSS%20%20%23Spring_Boot%20%20%23MongoDB;Exploring+Other+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=00C3FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;%23ReactJs%20%20%23Tailwind_CSS%20%20%23NodeJS & ExpressJS%20%20%23MongoDB;Exploring+Other+Technologies" alt="Typing SVG" />
 </p>
 
 
@@ -12,16 +12,16 @@
 ## 🚀 About Me
 - 💻 **Full-Stack Developer**
 - 🎨 **Frontend:** React.js, Tailwind CSS
-- ⚙️ **Backend:** Spring Boot, Java
+- ⚙️ **Backend:** NodeJS, ExpressJS
 - 🛢 **Database:** MongoDB
-- 📚 Exploring Python & Advanced OOP
+- 📚 Exploring Java, Advanced OOP and Python
 - 🚀 Love working on high-performance & scalable applications
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,java,spring,mongodb,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,node,express,mongodb,git,github,linux,vscode" />
 </p><br><br><br>
 
 ---
