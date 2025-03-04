@@ -24,11 +24,9 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,git,github,linux,vscode" />
 </p><br><br><br>
 
----
-
-
 
 ---
+
 
 ## 🔥 Most Used Technologies
 <p align="center">
