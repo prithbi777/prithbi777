@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=00C3FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;%23ReactJs%20%23Tailwind_CSS%20%23NodeJS%2BExpressJS%20%23MongoDB;Exploring+Other+Technologies" alt="Typing SVG" />
 </p>
 
-
-
-
 ---
 
 ## 🚀 About Me
@@ -24,13 +21,18 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,git,github,linux,vscode" />
 </p><br><br><br>
 
-
 ---
-
 
 ## 🔥 Most Used Technologies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithbi777&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prithbi777?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -49,7 +51,6 @@
   </a>
 </p>
 
-
 ---
 
-⭐ **Tech Fact:** `"Simplicity is the soul of efficiency." – Austin Freeman`  
+⭐ **Tech Fact:** `"Simplicity is the soul of efficiency." – Austin Freeman`
