@@ -37,10 +37,11 @@
 
 ---
 
-## 💡 Featured Projects
-- 🚀 **[PasteAPPY](https://github.com/prithbi777/PasteAPPY)** - To Do Listing, Notes and Multipurpose!
-- 🌎 **[Music Player](https://github.com/prithbi777/Music_Player_Using_Python)** - An Interesting Music Player Using Python!
-- 🔥 **More projects on [GitHub](https://github.com/prithbi777?tab=repositories)!**  
+<!-- ##  💡 Featured Projects -->
+<!-- - 🚀 **[PasteAPPY](https://github.com/prithbi777/PasteAPPY)** - To Do Listing, Notes and Multipurpose! -->
+<!-- - 🌎 **[Music Player](https://github.com/prithbi777/Music_Player_Using_Python)** - An Interesting Music Player Using Python! -->
+<!-- - 🔥 **More projects on [GitHub](https://github.com/prithbi777?tab=repositories)!** -->
+ 
 
 ---
 
