@@ -1,8 +1,4 @@
-<h1 align="center">Hey there, I'm Prithbi! 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=00C3FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;%23ReactJs%20%23Tailwind_CSS%20%23NodeJS%2BExpressJS%20%23MongoDB;Exploring+Other+Technologies" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey there, I'm Prithbiraj Mahanta 👋</h1>
 
 ---
 
@@ -13,13 +9,6 @@
 - 🛢 **Database:** MongoDB
 - 📚 Exploring Java, Advanced OOP and Python
 - 🚀 Love working on high-performance & scalable applications
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,git,github,linux,vscode" />
-</p><br><br><br>
 
 ---
 
