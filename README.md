@@ -7,7 +7,7 @@
 - 🎨 **Frontend:** React.js, Tailwind CSS
 - ⚙️ **Backend:** NodeJS, ExpressJS
 - 🛢 **Database:** MongoDB
-- 📚 Exploring Java, Advanced OOP and Python
+- 📚 Exploring Java, Advanced OOP & System Design
 - 🚀 Love working on high-performance & scalable applications
 
 ---
@@ -26,10 +26,15 @@
 
 ---
 
-<!-- ##  💡 Featured Projects -->
-<!-- - 🚀 **[PasteAPPY](https://github.com/prithbi777/PasteAPPY)** - To Do Listing, Notes and Multipurpose! -->
-<!-- - 🌎 **[Music Player](https://github.com/prithbi777/Music_Player_Using_Python)** - An Interesting Music Player Using Python! -->
-<!-- - 🔥 **More projects on [GitHub](https://github.com/prithbi777?tab=repositories)!** -->
+## Few of my Projects
+
+<a href="https://github.com/prithbi777/FoodiFast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prithbi777&repo=FoodiFast&theme=radical&locale=en" />
+</a> 
+
+<a href="https://github.com/prithbi777/StudyX_AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prithbi777&repo=StudyX_AI&theme=radical&locale=en" />
+</a>
  
 
 ---
