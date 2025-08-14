@@ -26,7 +26,7 @@
 
 ---
 
-## Few of my Projects
+## Top 2 of my Projects
 
 <a href="https://github.com/prithbi777/FoodiFast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prithbi777&repo=FoodiFast&theme=radical&locale=en" />
