@@ -12,12 +12,6 @@
 
 ---
 
-## 🔥 Most Used Technologies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithbi777&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
 
 ## 🏆 LeetCode Stats
 <p align="center">
